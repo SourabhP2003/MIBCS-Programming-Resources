@@ -6,4 +6,3 @@
 - Attarde Komal Bhagwan
 - Krishna Patidar
 - Saiesh Agre
-- Sourabh Pawar
